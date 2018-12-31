@@ -4,7 +4,7 @@
 
 TODO:
 
-- [] projects links and images
+- [x] projects links and images
 - [x] posts site
   - [x] front
   - [x] back
