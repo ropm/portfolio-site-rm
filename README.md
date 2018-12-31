@@ -2,14 +2,15 @@
 
 ## Not finished
 
-Need to add:
+TODO:
 
 - [] projects links and images
-- [] posts site
-  - [] front
-  - [] back
-  - [] db
+- [x] posts site
+  - [x] front
+  - [x] back
+  - [x] db
 - [] finishing touches
+- [] improve blog visuals
 
 And finally:
 
